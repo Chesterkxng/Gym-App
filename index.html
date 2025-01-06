@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<title>GYMAPP</title>
+<link
+  rel="icon"
+  type="image/png"
+  href="{% static 'assets/images/logo.png' %}"
+  sizes="16x16"
+/>
+
+<!-- Stylesheets -->
+<link href="{% static 'landing/css/style.css' %}" rel="stylesheet">
+<link href="{% static 'landing/css/responsive.css' %}" rel="stylesheet">
+<script src="https://code.iconify.design/iconify-icon/2.2.0/iconify-icon.min.js"></script>
+
+</head>
+
+<!-- page wrapper -->
+<body class="boxed_wrapper">
+
+    <!-- Main Header -->
+    <header class="main-header">
+        <div class="outer-container">
+            <div class="container">
+                <div class="main-box clearfix">
+                    <div class="logo-box">
+                        <figure class="logo"><a href=""><img src="{% static 'landing/images/logo.png' %}" alt=""></a></figure>
+                    </div>
+                    <div class="nav-outer clearfix">
+                        <div class="menu-area">
+                            <nav class="main-menu navbar-expand-lg">
+                                <div class="navbar-header">
+                                    <!-- Toggle Button -->      
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+                                <div class="navbar-collapse collapse clearfix">
+                                    <ul class="navigation clearfix">
+                                        <li class="dropdown"><a>Accueil</a>
+                                        </li>
+                                        <li class="dropdown"><a href="#features-section">Fonctionnalités</a>
+                                        </li>  
+                                        <li class="dropdown"><a href="#pricing-section">Nos prix</a>
+                                        </li>   
+                                        <li class="dropdown"><a href="{% url 'login' %}">Se connecter</a>
+                                        </li>                         
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                        <div class="outer-box">
+                            <div class="btn-box"><a href="{% url 'gym/registration/form' %}">Commencez</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--Sticky Header-->
+        <div class="sticky-header">
+            <div class="container clearfix">
+                <figure class="logo-box"><a href=""><img src="{% static 'landing/images/small-logo.png' %}" alt=""></a></figure>
+                <div class="menu-area">
+                    <nav class="main-menu navbar-expand-lg">
+                        <div class="navbar-header">
+                            <!-- Toggle Button -->      
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <div class="navbar-collapse collapse clearfix">
+                            <ul class="navigation clearfix">
+                                <li class="current dropdown"><a href="#">Accueil</a>
+                                </li>
+                                <li class="dropdown"><a href="#features-section">Fonctionnalités</a>
+                                </li>
+                                <li class="dropdown"><a href="#pricing-section">Nos prix</a>
+                                </li>
+                                <li class="dropdown"><a href="{% url 'login' %}">Se connecter</a>
+                                </li>      
+                                <li class="dropdown"><a href="{% url 'gym/registration/form' %}">Commencez</a>
+                                </li>                        
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div><!-- sticky-header end -->
+    </header>
+    <!-- End Main Header -->
+
+
+    <!-- banner-section -->
+    <section class="banner-section style-six">
+        <div class="main-slider-carousel owl-carousel owl-theme">
+            <div class="slide" style="background-image:url({% static 'landing/images/background/background-black.png' %})">
+                <div class="container">
+                    <div class="inner-box">
+                        <div class="content-box">
+                            <h1>Meilleur Application Pour Gérer Votre Business</h1>
+                            <div class="text">GymApp est une plateforme de gestion pour les gyms, permettant aux managers d'enregistrer leurs établissements, de suivre les abonnements et les sessions, et de générer des factures de paiement. L'application propose un tableau de bord interactif pour visualiser les statistiques et simplifier la gestion quotidienne. Elle est conçue pour être intuitive et adaptée aux besoins des petites et grandes salles de sport.</div>
+                            <div class="btn-box"><a href="#" class="theme-btn">Commencez</a></div>
+                        </div>
+                        <div class="image-box" style="opacity: 0.7;">
+                            <figure class="image"><img src="{% static 'landing/images/resource/landing-image1.png' %}" alt=""></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" style="background-image:url({% static 'landing/images/background/background-black.png' %})">
+                <div class="container">
+                    <div class="inner-box">
+                        <div class="content-box">
+                            <h1>Meilleur Application Pour Surveiller Votre Business</h1>
+                            <div class="text">GymApp est une plateforme de gestion pour les gyms, permettant aux managers d'enregistrer leurs établissements, de suivre les abonnements et les sessions, et de générer des factures de paiement. L'application propose un tableau de bord interactif pour visualiser les statistiques et simplifier la gestion quotidienne. Elle est conçue pour être intuitive et adaptée aux besoins des petites et grandes salles de sport.</div>
+                            <div class="btn-box"><a href="#" class="theme-btn">Commencez</a></div>
+                        </div>
+                        <div class="image-box">
+                            <figure class="image" style="opacity: 0.7;"><img src="{% static 'landing/images/resource/landing-image2.jpeg' %}" alt=""></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" style="background-image:url({% static 'landing/images/background/background-black.png' %})">
+                <div class="container">
+                    <div class="inner-box">
+                        <div class="content-box">
+                            <h1>Meilleur Application Pour Surveiller Votre Business</h1>
+                            <div class="text">GymApp est une plateforme de gestion pour les gyms, permettant aux managers d'enregistrer leurs établissements, de suivre les abonnements et les sessions, et de générer des factures de paiement. L'application propose un tableau de bord interactif pour visualiser les statistiques et simplifier la gestion quotidienne. Elle est conçue pour être intuitive et adaptée aux besoins des petites et grandes salles de sport.</div>
+                            <div class="btn-box"><a href="#" class="theme-btn">Commencez</a></div>
+                        </div>
+                        <div class="image-box">
+                            <figure class="image" style="opacity: 0.7;"><img src="{% static 'landing/images/resource/landing-image3.png' %}" alt=""></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- banner-section end -->
+
+
+    <!-- feature-style-four -->
+    <section class="feature-style-four">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-12 col-md-12 left-column">
+                    <div class="inner-column">
+                        <div class="sec-title">
+                            <h2>Fonctionnalités </h2>
+                            <p>Découvrez les fonctionnalités clés de GymApp pour une gestion simplifiée et efficace de votre salle de sport.</p>
+                        </div>
+                        <div class="inner-box">
+                            <div class="single-item">
+                                <div class="number">1</div>
+                                <h4><a>Créez votre espace GymApp et enregister vos managers</a></h4>
+                                <div class="text">Inscrivez-vous facilement et commencez à gérer votre salle de sport en quelques minutes.</div>
+                            </div>
+                            <div class="single-item">
+                                <div class="number">2</div>
+                                <h4><a>Configurez votre espace GymApp selon vos spécifications</a></h4>
+                                <div class="text">Configurez vos forfaits, définissez votre stock et mettez les à jour quand vous voulez.</div>
+                            </div>
+                            <div class="single-item">
+                                <div class="number">3</div>
+                                <h4><a>Enregistrez vos prestations (abonnements, séances, ventes...)</a></h4>
+                                <div class="text">Suivez vos abonnés, gérez les abonnements et les séances et gérez les ventes</div>
+                            </div>
+                            <div class="single-item">
+                                <div class="number">4</div>
+                                <h4><a>Consultez vos indicateurs</a></h4>
+                                <div class="text">Analysez les statistiques et performances de votre salle grâce à des rapports détaillés.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-12 col-md-12 right-column">
+                    <div class="inner-column">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 feature-block">
+                                <div class="feature-block-four">
+                                    <div class="inner-box">
+                                        <div class="icon-box"><i class="flaticon-diamond"></i></div>
+                                        <h4><a>Interface Moderne</a></h4>
+                                        <div class="text">Profitez d’une interface intuitive et élégante pour une expérience utilisateur optimale.</div>
+                                    </div>
+                                </div>
+                                <div class="feature-block-four">
+                                    <div class="inner-box">
+                                        <div class="icon-box"><iconify-icon icon="fluent-mdl2:b-i-dashboard"></iconify-icon></div>
+                                        <h4><a>Tableaux de bord</a></h4>
+                                        <div class="text">Toutes vos données importantes sont centralisées sur un tableau de bord clair et moderne pour vous aider dans la gestion de votre business</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 feature-block">
+                                <div class="feature-block-four">
+                                    <div class="inner-box">
+                                        <div class="icon-box"><i class="flaticon-crop"></i></div>
+                                        <h4><a>Entièrement réactif</a></h4>
+                                        <div class="text">Accessible sur tous vos appareils : Ordinateurs, Tablettes et Smartphones.</div>
+                                    </div>
+                                </div>
+                                <div class="feature-block-four">
+                                    <div class="inner-box">
+                                        <div class="icon-box"><i class="flaticon-settings"></i></div>
+                                        <h4><a>Modulable</a></h4>
+                                        <div class="text">Configurez votre salle en fonction de <span class="fw-medium"> Vos </span>spécifications et mettez les à jour s'il y'a lieu </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- feature-style-four end -->
+
+
+    <!-- our-apps -->
+    <section class="our-apps sec-pad bg-color-4" id="features-section">
+        <div class="container">
+            <div class="sec-title centred">
+                <h2>Pourquoi choisir GYMAPP ? </h2>
+                <p>GymApp offre des outils avancés pour simplifier la gestion administrative et opérationnelle de votre gym. Du tableau de bord interactif à la génération de factures en passant par le suivi des statistiques, chaque fonctionnalité est pensée pour maximiser votre efficacité.
+                </p>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12 left-column">
+                    <div class="inner-box">
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="tdesign:member-filled"></iconify-icon></div>
+                            <h4><a>Gestion des abonnements</a></h4>
+                            <div class="text">Gérez vos abonnements en fonction des forfaits que vous aurez défini.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="typcn:flash" ></iconify-icon></div>
+                            <h4><a>Gestion des séances</a></h4>
+                            <div class="text">Gérez vos séances en fonction des forfaits que vous aurez défini.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="material-symbols:point-of-sale-sharp"></iconify-icon></div>
+                            <h4><a>Gestion de Stock et système de ventes</a></h4>
+                            <div class="text">Gérez votre stock d'articles et enregistrez vos ventes.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="raphael:customer"></iconify-icon></i></div>
+                            <h4><a>Gestion des managers et de la clientèle</a></h4>
+                            <div class="text">Gérez vos managers, définissez les permissions et rôles et gérez également la clientèle.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="fa-solid:file-invoice-dollar"></iconify-icon></iconify-icon></i></div>
+                            <h4><a>Génération de recus</a></h4>
+                            <div class="text">Génénez automatiquement les reçus de toutes les prestations que vous pouvez soit envoyer aux intéressés, soit imprimer ou soit télécharger</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 right-column">
+                    <div class="inner-box">
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="nrk:online"></iconify-icon></div>
+                            <h4><a>En ligne</a></h4>
+                            <div class="text">Accédez à vos informations n'importe quand sur tous les appareils.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="fa:send"></iconify-icon></div>
+                            <h4><a>Système d'envoi</a></h4>
+                            <div class="text">Transférez vos recus à vos adhérents en un clique.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="iconoir:bell-notification-solid"></iconify-icon></div>
+                            <h4><a>Rappels automatisés</a></h4>
+                            <div class="text">Avertissez vos clients à l'expiration de leur abonnement sans même vous en souciez.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><iconify-icon icon="uiw:pay"></iconify-icon></i></div>
+                            <h4><a>Solutions locales de paiement </a></h4>
+                            <div class="text">Intégration de paiement par Mobile Money pour répondre au marché local.</div>
+                        </div>
+                        <div class="single-item">
+                            <div class="icon-box"><i class="flaticon-time-left"></i></div>
+                            <h4><a>Mises à jour fréquentes</a></h4>
+                            <div class="text">Application en constante évolution pour la satisfaction de ses clients.</div>
+                        </div>  
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- our-apps end -->
+
+    <!-- video-style-five -->
+    <section class="video-style-five">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12 video-column">
+                    <div class="video-box clearfix">
+                        <div class="video-inner" style="background-image: url({% static 'landing/images/background/video-bg-1.jpg' %});">
+                            <a href="https://www.youtube.com/watch?v=nfP5N9Yc72A&amp;t=28s" class="lightbox-image" data-caption=""><i class="flaticon-music-player-play"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 content-column">
+                    <div class="content-box">
+                        <div class="sec-title"><h2>Un simple apercu ?</h2></div>
+                        <div class="text">
+                            <p>Plongez dans l’univers de notre application et découvrez comment elle simplifie vos tâches au quotidien. Cette courte vidéo met en lumière les fonctionnalités clés et les avantages uniques qui font de notre solution un outil incontournable.</p>
+                            <p>Préparez-vous à révolutionner votre façon de travailler et à atteindre vos objectifs plus facilement que jamais. </p>
+                        </div>
+                        <div class="btn-box"><a href="#" class="theme-btn">En savoir plus</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- video-style-five end -->
+
+
+  
+        <!-- pricing-section -->
+    <section class="pricing-section sec-pad centred" id="pricing-section">
+        <div class="container">
+            <div class="sec-title">
+                <h2>Nos Prix et Formules</h2>
+                <p>Des options flexibles pour gérer votre gym efficacement. Que vous soyez une petite salle ou une grande chaîne, nos forfaits sont conçus pour s'adapter à vos besoins et vous offrir les outils nécessaires pour optimiser la gestion de vos activités.</p>
+            </div>
+            <div class="row">
+                {% for package in packages %}
+                <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
+                    <div class="pricing-block-one">
+                        <div class="pricing-table">
+                            <div class="table-header">
+                                <h4 class="title">{{package.name}}</h4>
+                                <h1 class="price">XOF {{package.amount|floatformat:'0'}}</h1>
+                                <div class="text">par mois</div>
+                            </div>
+                            <div class="table-content">
+                                <ul>
+                                    {% for _, feature in package.features.items %}
+                                    <li>{{feature}}</li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            <div class="table-footer">
+                                <a href="#" class="choose-btn">Commencez maintenant</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+        <!-- pricing-section end -->
+
+
+    <!-- our-team -->
+    <section class="our-team bg-color-10 sec-pad centred">
+        <div class="container">
+            <div class="sec-title">
+                <h2>A propos du developpeur</h2>
+                <p>Derrière cette application se trouve une passion pour la technologie et une vision claire : rendre la gestion des salles de sport locales plus simple et efficace. En tant que développeur unique, j'ai conçu et développé cette solution avec un objectif en tête : répondre aux besoins des gestionnaires et offrir une expérience fluide et intuitive. Chaque ligne de code reflète mon engagement à vous fournir un outil performant et fiable.</p>
+                <h4><br>" Par un Sportif pour des Sportifs "</h4>
+            </div>
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-3 col-md-6 col-sm-12 team-block">
+                    <div class="team-block-one">
+                        <div class="inner-box">
+                            <figure class="image-box"><a href="#"><img src="{% static 'landing/images/resource/dev.png' %}" alt=""></a></figure>
+                            <div class="lower-content">
+                                <h5><a href="https://www.github.com/Chesterkxng" target="_blank">Cheick GOITA</a></h5>
+                                <span class="designation">Développeur du projet</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- our-team end -->
+
+
+ 
+
+
+    <!-- main-footer -->
+    <footer class="main-footer" style="background-image: url({% static 'landing/images/background/footer1.png' %});">
+        <div class="container">
+            <div class="footer-top">
+                <div class="widget-section">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-12 footer-column">
+                            <div class="logo-widget footer-widget">
+                                <figure class="footer-logo"><a href="index.html"><img src="{% static 'landing/images/logo.png' %}" alt=""></a></figure>
+                                <div class="widget-content">
+                                    <div class="text">GymApp vous accompagne dans la gestion quotidienne de votre salle de sport : abonnement en ligne, suivi des paiements, rapports automatiques, et bien plus encore. Profitez d'une plateforme intuitive et accessible sur tous vos appareils.</div>
+                                    <ul class="footer-social">
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/gymapp.king" target="_blank"><iconify-icon icon="mdi:instagram"></iconify-icon></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 d-flex justify-content-end footer-column">
+                            <div class="links-widget footer-widget">
+                                <h4 class="widget-title">A propos</h4>
+                                <div class="widget-content">
+                                    <ul>
+                                        <li><a href="#">SaaSWeb Online</a></li>
+                                        <li><a href="#">Salles de sport</a></li>
+                                        <li><a href="#">Tableaux de bord</a></li>
+                                        <li><a href="#">Management</a></li>
+                                        <li><a href="#">Sécurisé et Fiable</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom clearfix">
+                <ul class="footer-nav pull-left">
+                    <li><a href="#">GYMAPP</a></li>
+                  </ul>
+                <div class="copyright pull-right">Copyright &copy; <a href="https://www.github.com/Chesterkxng" target="_blank">Chesterking</a> <script>document.write(new Date().getFullYear())</script>. Tous Droits Reservés.</div>
+            </div>
+        </div>
+    </footer>
+    <!-- main-footer end -->
+
+
+
+<!--Scroll to top-->
+<button class="scroll-top scroll-to-target" data-target="html">
+    <span class="fa fa-arrow-up"></span>
+    <span class="text">Top</span>
+</button>
+
+
+
+<!-- jequery plugins -->
+<script src="{% static 'landing/js/jquery.js' %}"></script>
+<script src="{% static 'landing/js/popper.min.js' %}"></script>
+<script src="{% static 'landing/js/bootstrap.min.js' %}"></script>
+
+<script src="{% static 'landing/js/owl.js' %}"></script>
+<script src="{% static 'landing/js/wow.js' %}"></script>
+<script src="{% static 'landing/js/validation.js' %}"></script>
+<script src="{% static 'landing/js/jquery.fancybox.js' %}"></script>
+<script src="{% static 'landing/js/appear.js' %}"></script>
+<script src="{% static 'landing/js/jquery.paroller.min.js' %}"></script>
+
+<!-- main-js -->
+<script src="{% static 'landing/js/script.js' %}"></script>
+
+</body><!-- End of .page_wrapper -->
+</html>
