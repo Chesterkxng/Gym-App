@@ -332,29 +332,72 @@
                 <p>Des options flexibles pour gérer votre gym efficacement. Que vous soyez une petite salle ou une grande chaîne, nos forfaits sont conçus pour s'adapter à vos besoins et vous offrir les outils nécessaires pour optimiser la gestion de vos activités.</p>
             </div>
             <div class="row">
-                {% for package in packages %}
-                <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
-                    <div class="pricing-block-one">
-                        <div class="pricing-table">
-                            <div class="table-header">
-                                <h4 class="title">{{package.name}}</h4>
-                                <h1 class="price">XOF {{package.amount|floatformat:'0'}}</h1>
-                                <div class="text">par mois</div>
-                            </div>
-                            <div class="table-content">
-                                <ul>
-                                    {% for _, feature in package.features.items %}
-                                    <li>{{feature}}</li>
-                                    {% endfor %}
-                                </ul>
-                            </div>
-                            <div class="table-footer">
-                                <a href="#" class="choose-btn">Commencez maintenant</a>
-                            </div>
-                        </div>
+              <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
+                <div class="pricing-block-one">
+                  <div class="pricing-table">
+                    <div class="table-header">
+                      <h4 class="title">Package Lite</h4>
+                      <h1 class="price">10 000 XOF</h1>
+                      <div class="text">par mois</div>
                     </div>
+                    <div class="table-content">
+                      <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                        <li>Feature 3</li>
+                      </ul>
+                    </div>
+                    <div class="table-footer">
+                      <a href="#" class="choose-btn">Commencez maintenant</a>
+                    </div>
+                  </div>
                 </div>
-                {% endfor %}
+              </div>
+	      <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
+                <div class="pricing-block-one">
+                  <div class="pricing-table">
+                    <div class="table-header">
+                      <h4 class="title">Package Medium</h4>
+                      <h1 class="price">15 000 XOF</h1>
+                      <div class="text">par mois</div>
+                    </div>
+                    <div class="table-content">
+                      <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                        <li>Feature 3</li>
+			<li>Feature 4</li>
+                      </ul>
+                    </div>
+                    <div class="table-footer">
+                      <a href="#" class="choose-btn">Commencez maintenant</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+	      <div class="col-lg-4 col-md-6 col-sm-12 pricing-block">
+                <div class="pricing-block-one">
+                  <div class="pricing-table">
+                    <div class="table-header">
+                      <h4 class="title">Package Full</h4>
+                      <h1 class="price">20 000 XOF</h1>
+                      <div class="text">par mois</div>
+                    </div>
+                    <div class="table-content">
+                      <ul>
+                        <li>Feature 1</li>
+                        <li>Feature 2</li>
+                        <li>Feature 3</li>
+                        <li>Feature 4</li>
+                        <li>Feature 5</li>
+                      </ul>
+                    </div>
+                    <div class="table-footer">
+                      <a href="#" class="choose-btn">Commencez maintenant</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
         </div>
     </section>
