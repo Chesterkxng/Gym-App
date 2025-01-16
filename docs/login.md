@@ -53,5 +53,6 @@ Une fois le nouveau mot de passe enregistré, vous pourrez vous connecter via [l
 
 ### **Liens de navigation**
 
-[_Enregistrement de la salle_](register.md)  
-[_Gestion des managers_](manager.md)
+**_Retour au_** [_Sommaire_](table.md) 
+**_Page précedente:_** [_Enregistrement de la salle_](register.md)  
+**_Page suivante:_** [_Gestion des managers_](manager.md)

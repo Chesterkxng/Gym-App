@@ -50,8 +50,8 @@ Sélectionnez une méthode de paiement adaptée et effectuez la transaction.
 ---
 ### **Lien de navigation**
 
-[_Sommaire_](table.md)  
-[_Connexion à l'application_](login.md)
+**_Page précedente:_** [_Sommaire_](table.md)  
+**_Page suivante:_** [_Connexion à l'application_](login.md)
 
 
 
