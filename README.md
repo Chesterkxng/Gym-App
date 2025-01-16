@@ -30,7 +30,7 @@ GymApp est une plateforme de gestion pour les salles de sport, permettant aux pr
 
 Accédez rapidement aux sections détaillées de notre documentation pour une compréhension complète des fonctionnalités de notre application en cliquant sur le lien suivant.  
 
-[Documentation](docs/table.md)
+[Manuel GymApp](docs/table.md)
 
 
 
