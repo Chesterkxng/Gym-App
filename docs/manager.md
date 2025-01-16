@@ -57,7 +57,7 @@ Ces paramètres vous permettent de garder un contrôle total sur les actions que
 ---
 
 ### Modifier les informations d'un manager
-1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de modification du manager. 
+1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de modification. 
     ![update manager btn](/images/screenshots/manager/update_manager_btn.png "update manager btn")
 
 2. Modifier et sauvegardez les informations.
@@ -66,7 +66,7 @@ Ces paramètres vous permettent de garder un contrôle total sur les actions que
 ---
 
 ### Désactiver/réactiver un compte manager 
-1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de désactivation/réactivation du manager. 
+1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de désactivation/réactivation. 
     ![activate manager btn](/images/screenshots/manager/activate_manager_btn.png "activate manager btn")
 
     > **Note:** Vous pouvez consulter le status chaque manager depuis la colonne **STATUT**.
