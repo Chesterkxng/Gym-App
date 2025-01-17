@@ -44,7 +44,7 @@ Pour ajouter un séance, procédez comme suit :
 3. Modifiez les informations souhaitées et cliquez sur **MODIFIER SEANCE**.  
    ![edit subscription form](/images/screenshots/session/edit_form.png "edit subscription form")  
 
-   > **Note** : Les informations du client ne sont pas modifiables depuis cette interface.
+   > **Note** : Les informations du client ne sont pas modifiables depuis cette interface.  
    > **Note** : La modication d’une séance met à jour automatiquement les statistiques dans les tableaux de bord. 
 
 ---
