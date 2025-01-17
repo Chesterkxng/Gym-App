@@ -32,26 +32,23 @@ Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMEN
 
    ![superuser-info](/images/screenshots/register/superuser-info.png "Formulaire - Super-utilisateur")
 
----
-
-### **Finaliser l'enregistrement**  
 Une fois le formulaire complété **intégralement**, cliquez sur le bouton **ENREGISTRER ET FINALISER**.  
 Sauf erreur, votre salle de sport et votre super-utilisateur seront enregistrés. Vous serez alors invité à choisir une formule adaptée à vos besoins.
 
-![subscription plan](/images/screenshots/register/plan.png "Choix de la formule")
-
 ---
-
 ### **Choisir une formule et procéder au paiement**  
 Sélectionnez une méthode de paiement adaptée et effectuez la transaction.  
+
+![subscription plan](/images/screenshots/register/plan.png "Choix de la formule")
+
 
 > **Astuce** : Si vous choisissez de **passer** cette étape, vous pourrez toujours souscrire à une formule après vous être connecté.
 
 ---
 ### **Lien de navigation**
 
-**_Page précedente:_** [_Sommaire_](table.md)  
-**_Page suivante:_** [_Connexion à l'application_](login.md)
+- [_Page précedente : Sommaire_](table.md)  
+- [_Page suivante : Connexion à l'application_](login.md)
 
 
 

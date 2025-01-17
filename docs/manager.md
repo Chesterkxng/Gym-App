@@ -81,6 +81,6 @@ Ces paramètres vous permettent de garder un contrôle total sur les actions que
 
 ### **Lien de navigation**
 
-**_Retour au_** [_Sommaire_](table.md)  
-**_Page précedente:_** [_Connexion à l'application_](login.md)  
-**_Page suivante:_**  [_Gestion des forfaits_](package.md)  
+- [_Retour au Sommaire_](table.md)  
+- [_Page précedente : Connexion à l'application_](login.md)  
+- [_Page suivante : Gestion des forfaits_](package.md)  

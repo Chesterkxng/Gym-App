@@ -49,6 +49,6 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 
 ### **Lien de navigation**
 
-**_Retour au_** [_Sommaire_](table.md)  
-**_Page précédente :_** [_Gestion des managers_](manager.md)  
-**_Page suivante :_** [_Gestion des abonnements_](subscription.md)  
+- [_Retour au Sommaire_](table.md)  
+- [_Page précédente : Gestion des managers_](manager.md)  
+- [_Page suivante : Gestion des abonnements_](subscription.md)  
