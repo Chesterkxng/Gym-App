@@ -39,3 +39,11 @@ Pour supprimer une vente, procédez comme suit :
 
 **3. Confirmez la suppression dans la fenêtre de confirmation :**  
 ![confirm delete sale btn](/images/screenshots/sale/delete_popup.png "confirm delete sale btn")  
+
+> **Note** : La **suppression** d’une vente est **irréversible** et met à jour automatiquement les statistiques dans les tableaux de bord.
+---
+### **Liens de navigation**
+
+- [_Retour au Sommaire_](table.md)  
+- [_Page précedente : Gestion de stock_](product.md)   
+- [_Page suivante : Gestion des reçus_](invoice.md)  
