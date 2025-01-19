@@ -1,12 +1,12 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Gestion des abonnements
+# Gestion des abonnements
 
 La gestion des abonnements est une fonctionnalité centrale qui assure un suivi structuré et efficace des clients de votre salle de sport. Elle vous permet d’inscrire des clients, de gérer leurs souscriptions et de suivre leurs paiements de manière claire et intuitive.
 
 ---
 
-### **Ajouter un abonnement**
+## **Ajouter un abonnement**
 
 Pour ajouter un abonnement, procédez comme suit :  
 1. Accédez au formulaire d'ajout d'abonnements :  
@@ -32,7 +32,7 @@ Pour ajouter un abonnement, procédez comme suit :
 
 ---
 
-### **Modifier un abonnement**
+## **Modifier un abonnement**
 
 1. Accédez à la liste des abonnements via le menu déroulant :  
    ![navbar list subscription](/images/screenshots/subscription/nav_list.png "navbar list subscription")  
@@ -48,7 +48,7 @@ Pour ajouter un abonnement, procédez comme suit :
 
 ---
 
-### **Reconduire un abonnement**
+## **Reconduire un abonnement**
 
 1. Cliquez sur le bouton correspondant à l’abonnement à reconduire :  
    ![reconduct subscription btn](/images/screenshots/subscription/reconduct_btn.png "reconduct subscription btn")  
@@ -61,7 +61,7 @@ Pour ajouter un abonnement, procédez comme suit :
 
 ---
 
-### **Supprimer un abonnement**
+## **Supprimer un abonnement**
 
 1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression :  
    ![delete subscription btn](/images/screenshots/subscription/delete_btn.png "delete subscription btn")  
@@ -73,7 +73,7 @@ Pour ajouter un abonnement, procédez comme suit :
 
 ---
 
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précédente : Gestion des forfaits_](package.md)  

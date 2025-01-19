@@ -4,17 +4,18 @@
 
 La première étape consiste à enregistrer les informations de votre salle de sport ainsi que celles du super-utilisateur qui administrera votre espace **GymApp**. Le super-utilisateur disposera de tous les droits nécessaires pour configurer, gérer et superviser les différentes fonctionnalités de votre espace.
 
-### **Accéder au formulaire d'inscription**
+---
 
-Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMENCEZ** disponibles sur la page d'accueil (_cf. exemple ci-après_).
+### **Enregistrer votre salle de sport**
+
+**1. Accéder au formulaire d'inscription**
+Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMENCEZ** disponibles sur la page d'accueil (_cf. exemple ci-après_)
 
 ![Get-started](/images/screenshots/register/get-started.png "Get-started button")
 
----
 
-### **Renseigner les informations requises**  
-
-#### 1. **Informations sur la salle**  
+**2. Renseigner les informations demandées**
+- **Informations sur la salle**  
    Renseignez les détails de votre salle de sport, tels que :  
    - _Nom de la salle_  
    - _Adresse_  
@@ -23,7 +24,7 @@ Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMEN
 
    ![Gym-info](/images/screenshots/register/gym-info.png "Formulaire - Informations sur la salle")
 
-#### 2. **Informations du super-utilisateur**  
+-  **Informations du super-utilisateur**  
    Fournissez les données personnelles du super-utilisateur, telles que :  
    - _Nom et prénoms_ 
    - _Email_ 
@@ -32,11 +33,11 @@ Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMEN
 
    ![superuser-info](/images/screenshots/register/superuser-info.png "Formulaire - Super-utilisateur")
 
-Une fois le formulaire complété **intégralement**, cliquez sur le bouton **ENREGISTRER ET FINALISER**.  
+Une fois le formulaire complété **intégralement**, cliquez sur le bouton **enregister et finaliser**.  
 Sauf erreur, votre salle de sport et votre super-utilisateur seront enregistrés. Vous serez alors invité à choisir une formule adaptée à vos besoins.
 
 ---
-### **Choisir une formule et procéder au paiement**  
+### Procéder au paiement 
 Sélectionnez une méthode de paiement adaptée et effectuez la transaction.  
 
 ![subscription plan](/images/screenshots/register/plan.png "Choix de la formule")
@@ -48,7 +49,7 @@ Sélectionnez une méthode de paiement adaptée et effectuez la transaction.
 ### **Lien de navigation**
 
 - [_Page précedente : Sommaire_](table.md)  
-- [_Page suivante : Connexion à l'application_](login.md)
+- [_Page suivante : Accédez à votre espace GYMAPP_](login.md)
 
 
 

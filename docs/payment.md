@@ -29,6 +29,17 @@ Un formulaire de paiement apparaîtra, où vous pourrez choisir la méthode de p
 En cas de questions ou d’assistance, notre support reste disponible pour vous accompagner tout au long du processus.
 
 ---
+ ### Consulter l'historique des transactions
+
+Accédez à l'historique des transactions depuis le menu déroulant :
+
+![payment historic](/images/screenshots/payment/nav_pay_historic.png "payment historic")  
+
+Vous accéderez à l'historique des transactions depuis la premier abonnement au service.
+
+![payment historic](/images/screenshots/payment/historic.png "payment historic")  
+
+---
 ### **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
