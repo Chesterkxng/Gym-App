@@ -48,7 +48,7 @@ En cliquant sur le lien de réinitialisation, vous serez redirigé vers une page
 
 ![Reset Form](/images/screenshots/login/reset.png "Reset Form")
 
-Une fois le nouveau mot de passe enregistré, vous pourrez vous connecter via [l'interface de connexion](#1---connexion).
+Une fois le nouveau mot de passe enregistré, vous pourrez vous connecter via [l'interface de connexion](#se-connecter).
 
 ---
 
