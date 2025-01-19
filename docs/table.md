@@ -13,7 +13,7 @@ Suivez ces étapes pour découvrir et maîtriser l'application étape par étape
 - [Gestion des reçus](invoice.md)
 - [Gestion de la clientèle](customer.md)
 - [Gestion des évènements](event.md)
-- [Réabonnement au service GymApp](payment.md)
+- [Réabonnement au service GYMAPP](payment.md)
 
 
 [Retour à la description du projet](/README.md).
