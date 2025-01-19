@@ -1,7 +1,4 @@
-<p align="center"> 
-
- ![GymApp Logo](/images/logo_md.png "GymApp Logo")
-</p>
+![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
 ## Enregistrement de la salle
 
@@ -14,11 +11,8 @@ La première étape consiste à enregistrer les informations de votre salle de s
 **1. Accéder au formulaire d'inscription**
 Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMENCEZ** disponibles sur la page d'accueil (_cf. exemple ci-après_)
 
-<p align="center">
 
 ![Get-started](/images/screenshots/register/get-started.png "Get-started button")
-
-</p>
 
 
 **2. Renseigner les informations demandées**
@@ -29,10 +23,7 @@ Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMEN
    - _Email_  
    - _Contact_  
 
-<p align="center">
-
    ![Gym-info](/images/screenshots/register/gym-info.png "Formulaire - Informations sur la salle")
-</p>
 
 -  **Informations du super-utilisateur**  
    Fournissez les données personnelles du super-utilisateur, telles que :  
@@ -41,11 +32,7 @@ Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMEN
    - _Nom d'utilisateur_  
    - _Mot de passe_ 
 
-<p align="center">
-
    ![superuser-info](/images/screenshots/register/superuser-info.png "Formulaire - Super-utilisateur")
-
-</p>
 
 Une fois le formulaire complété **intégralement**, cliquez sur le bouton **enregister et finaliser**.  
 Sauf erreur, votre salle de sport et votre super-utilisateur seront enregistrés. Vous serez alors invité à choisir une formule adaptée à vos besoins.
@@ -54,10 +41,8 @@ Sauf erreur, votre salle de sport et votre super-utilisateur seront enregistrés
 ### Procéder au paiement 
 Sélectionnez une méthode de paiement adaptée et effectuez la transaction.  
 
-<p align="center">
-
 ![subscription plan](/images/screenshots/register/plan.png "Choix de la formule")
-</p>
+
 
 > **Astuce** : Si vous choisissez de **passer** cette étape, vous pourrez toujours souscrire à une formule après vous être connecté.
 
