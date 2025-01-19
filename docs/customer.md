@@ -52,3 +52,10 @@ Vous accéderez aux détails du client, où vous trouverez l’historique comple
 ![delete form](/images/screenshots/customer/delete_form.png "delete form")  
 
 > **Note** : La suppression d’un client est irréversible et entraîne également la **suppression de toutes les prestations associées**. Les statistiques des tableaux de bord seront automatiquement mises à jour pour refléter ce changement.  
+
+ ---
+### **Liens de navigation**
+
+- [_Retour au Sommaire_](table.md)  
+- [_Page précedente : Gestion des reçus_](product.md)   
+- [_Page suivante : Gestion des évènements_](invoice.md)  
