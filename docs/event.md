@@ -1,12 +1,12 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Gestion des événements
+# Gestion des événements
 
 La gestion des événements est conçue pour être efficacement managée, offrant aux responsables la possibilité de planifier, coordonner et suivre toutes les activités spéciales organisées au sein de la salle de sport. Cette fonctionnalité garantit une organisation fluide et professionnelle des événements.
 
 ---
 
-### Ajouter un événement
+## Ajouter un événement
 
 **1. Accédez à la liste des événements via le menu déroulant :**  
 ![nav event](/images/screenshots/calendar/nav_calendar.png "nav event") 
@@ -28,7 +28,7 @@ La gestion des événements est conçue pour être efficacement managée, offran
 
 ---
 
-### Modifier/Supprimer un événement
+## Modifier/Supprimer un événement
 
 Pour modifier ou supprimer un événement, localisez et sélectionnez-le sur le calendrier. Un formulaire s'ouvrira.
 
@@ -38,7 +38,7 @@ Pour modifier ou supprimer un événement, localisez et sélectionnez-le sur le 
 ![edit form](/images/screenshots/calendar/edit_form.png "edit form") 
  
  ---
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Gestion de la clientèle_](product.md)   

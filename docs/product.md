@@ -1,6 +1,6 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")  
 
-## Gestion des stocks  
+# Gestion des stocks  
 
 La gestion des stocks est une fonctionnalité essentielle pour garantir une organisation optimale des ressources de votre salle de sport. Elle vous permet de suivre, en temps réel, l'état des articles disponibles (équipements, accessoires, produits à vendre, etc.), d’anticiper les besoins en réapprovisionnement et de minimiser les pertes.  
 
@@ -8,7 +8,7 @@ Grâce à cette fonctionnalité, vous pouvez enregistrer de nouveaux articles, m
 
 ---  
 
-### Ajouter un article  
+## Ajouter un article  
 
 Pour ajouter un article, procédez comme suit :  
 1. Accédez au formulaire d'ajout d'articles :  
@@ -31,7 +31,7 @@ Pour ajouter un article, procédez comme suit :
 
 ---  
 
-### Voir les détails d'un article  
+## Voir les détails d'un article  
 
 1. Accédez à la liste des articles via le menu déroulant :  
    ![Liste des articles](/images/screenshots/product/nav_list.png "navbar list product")  
@@ -44,7 +44,7 @@ Pour ajouter un article, procédez comme suit :
 
 ---  
 
-### Modifier un article  
+## Modifier un article  
 
 1. Cliquez sur le bouton **MODIFIER** pour accéder au formulaire de modification :  
    ![Bouton modifier article](/images/screenshots/product/edit_btn.png "edit product btn")  
@@ -54,7 +54,7 @@ Pour ajouter un article, procédez comme suit :
 
 ---  
 
-### Mettre à jour les quantités  
+## Mettre à jour les quantités  
 
 Pour mettre à jour les quantités de plusieurs articles en même temps :  
 1. Sélectionnez les lignes des articles concernés à l’aide des cases à cocher.  
@@ -67,7 +67,7 @@ Pour mettre à jour les quantités de plusieurs articles en même temps :
 
 ---  
 
-### Supprimer un article  
+## Supprimer un article  
 
 1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression :  
    ![Bouton supprimer article](/images/screenshots/product/delete_btn.png "delete product btn")  
@@ -79,11 +79,11 @@ Pour mettre à jour les quantités de plusieurs articles en même temps :
 
 ---
 
-## Gestion des catégories d'articles
+# Gestion des catégories d'articles
 La gestion des catégories permet d’organiser vos articles de manière structurée et cohérente. En classant les équipements, accessoires et produits selon des catégories spécifiques, vous facilitez leur recherche et leur suivi au quotidien. Cette fonctionnalité optimise également la gestion des stocks en offrant une meilleure visibilité sur les besoins et les performances de chaque type de produit.
 
 ---
-### Ajouter une catégorie  
+## Ajouter une catégorie  
 
 Pour ajouter une catégorie, procédez comme suit :  
 1. Accédez à la liste des catégories via le menu déroulant :  
@@ -100,7 +100,7 @@ Pour ajouter une catégorie, procédez comme suit :
 
 ---
 
-### Modifier une catégorie  
+## Modifier une catégorie  
 
 1. Cliquez sur le bouton **MODIFIER** pour ouvrir le formulaire de modification :  
    ![Bouton modifier catégorie](/images/screenshots/product/edit_category_btn.png "edit product category btn")  
@@ -110,7 +110,7 @@ Pour ajouter une catégorie, procédez comme suit :
 
 ---
 
-### Supprimer une catégorie  
+## Supprimer une catégorie  
 
 1. Cliquez sur le bouton **SUPPRIMER** pour ouvrir le formulaire de suppression :  
    ![Bouton supprimer catégorie](/images/screenshots/product/delete_category_btn.png "delete category btn")  
@@ -121,7 +121,7 @@ Pour ajouter une catégorie, procédez comme suit :
    > **Note** : La suppression d'une catégorie est **irréversible**.  
 
 ---
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précédente : Gestion des séances_](session.md)  

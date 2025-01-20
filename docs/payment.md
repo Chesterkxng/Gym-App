@@ -1,6 +1,6 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")  
 
-## Réabonnement au service GYMAPP  
+# Réabonnement au service GYMAPP  
 
 Le réabonnement est une étape essentielle pour continuer à bénéficier des outils performants et des services que nous mettons à votre disposition. Avec notre plateforme SaaS, le renouvellement de votre accès aux fonctionnalités clés, comme la gestion des abonnements, des ventes, des événements et des clients, est simple et rapide. Nous avons conçu ce processus pour garantir une continuité fluide de vos activités, sans aucune interruption.  
 
@@ -8,7 +8,7 @@ Conscients des besoins spécifiques à votre région, nous avons intégré des s
 
 ---
 
-### Se réabonner au service GYMAPP  
+## Se réabonner au service GYMAPP  
 
 Afin de garantir une transition fluide, vous pouvez renouveler votre abonnement jusqu'à **5 jours avant sa date d'expiration**.  
 
@@ -29,7 +29,8 @@ Un formulaire de paiement apparaîtra, où vous pourrez choisir la méthode de p
 En cas de questions ou d’assistance, notre support reste disponible pour vous accompagner tout au long du processus.
 
 ---
- ### Consulter l'historique des transactions
+
+## Consulter l'historique des transactions
 
 Accédez à l'historique des transactions depuis le menu déroulant :
 
@@ -40,7 +41,7 @@ Vous accéderez à l'historique des transactions depuis la premier abonnement au
 ![payment historic](/images/screenshots/payment/historic.png "payment historic")  
 
 ---
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Gestion de la clientèle_](product.md)

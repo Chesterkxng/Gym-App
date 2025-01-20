@@ -1,6 +1,6 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Gestion des managers
+# Gestion des managers
 
 La gestion des managers est une étape essentielle pour organiser et superviser les activités de votre salle de sport. En tant que super-utilisateur, vous avez la possibilité d'ajouter, de modifier ou de supprimer des comptes manager.
 
@@ -8,7 +8,7 @@ Cette gestion, à la fois simplifiée et centralisée, vous permet d’attribuer
 
 ---
 
-### Ajouter un manager
+## Ajouter un manager
 
 Vous pouvez ajouter un ou plusieurs managers pour optimiser la gestion de votre salle. Voici comment procéder :  
 1. Accédez au formumaire d'ajout de manager via le menu déroulant :  
@@ -32,7 +32,7 @@ Vous pouvez ajouter un ou plusieurs managers pour optimiser la gestion de votre 
 
 ---
 
-### Attribuer des rôles et des permissions
+## Attribuer des rôles et des permissions
 
 L'attribution de rôles et permissions permet de personnaliser l'accès aux données et fonctionnalités en fonction des responsabilités de chaque manager.
 
@@ -56,7 +56,7 @@ Ces paramètres vous permettent de garder un contrôle total sur les actions que
 
 ---
 
-### Modifier les informations d'un manager
+## Modifier les informations d'un manager
 1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de modification. 
     ![update manager btn](/images/screenshots/manager/update_manager_btn.png "update manager btn")
 
@@ -65,7 +65,7 @@ Ces paramètres vous permettent de garder un contrôle total sur les actions que
 
 ---
 
-### Désactiver/réactiver un compte manager 
+## Désactiver/réactiver un compte manager 
 1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de désactivation/réactivation. 
     ![activate manager btn](/images/screenshots/manager/activate_manager_btn.png "activate manager btn")
 
@@ -79,7 +79,7 @@ Ces paramètres vous permettent de garder un contrôle total sur les actions que
 
 ---
 
-### **Lien de navigation**
+## **Lien de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Connexion à l'application_](login.md)  

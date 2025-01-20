@@ -1,11 +1,11 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Gestion des ventes
+# Gestion des ventes
 La gestion des ventes est une fonctionnalité essentielle pour suivre et optimiser les transactions dans votre salle de sport. Que ce soit pour la vente d’équipements, d’accessoires ou de produits divers, cet outil offre une traçabilité complète des opérations, de l’enregistrement des ventes à l’analyse des revenus. En facilitant la gestion des transactions, cette fonctionnalité contribue à la satisfaction des clients tout en augmentant la rentabilité de votre établissement.
 
 ---
 
-### Ajouter une vente
+## Ajouter une vente
 
 Pour ajouter une vente, procédez comme suit :
 
@@ -27,7 +27,7 @@ Pour ajouter une vente, procédez comme suit :
 
 ---
 
-### Supprimer une vente
+## Supprimer une vente
 
 Pour supprimer une vente, procédez comme suit :  
 
@@ -42,7 +42,7 @@ Pour supprimer une vente, procédez comme suit :
 
 > **Note** : La **suppression** d’une vente est **irréversible** et met à jour automatiquement les statistiques dans les tableaux de bord.
 ---
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Gestion de stock_](product.md)   

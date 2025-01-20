@@ -1,12 +1,12 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")  
 
-## Gestion de la clientèle  
+# Gestion de la clientèle  
 
 La gestion de la clientèle est une fonctionnalité centrale pour établir et maintenir une relation de confiance avec vos clients. Elle permet d'organiser et de suivre efficacement les informations essentielles, telles que les coordonnées, les abonnements, les participations aux sessions, et les transactions. Grâce à cette fonctionnalité, vous pouvez offrir un service personnalisé, fidéliser votre clientèle, et prendre des décisions stratégiques basées sur des données fiables. En facilitant le suivi des interactions et des besoins des clients, la gestion de la clientèle contribue à améliorer l'expérience utilisateur tout en optimisant les opérations de votre salle de sport.  
 
 ---
 
-### Ajouter un client  
+## Ajouter un client  
 
 Les clients sont ajoutés automatiquement lorsqu'ils souscrivent à un abonnement ou effectuent un paiement pour une séance. Cette fonctionnalité garantit que chaque transaction ou prestation est associée à un client existant ou nouvellement enregistré.  
 
@@ -14,7 +14,7 @@ Les clients sont ajoutés automatiquement lorsqu'ils souscrivent à un abonnemen
 
 ---
 
-### Accéder aux détails d'un client  
+## Accéder aux détails d'un client  
 
 **1. Accédez à la liste des clients via le menu déroulant :**  
 ![customer list](/images/screenshots/customer/nav_list.png "customer list")  
@@ -31,7 +31,7 @@ Vous accéderez aux détails du client, où vous trouverez l’historique comple
 
 ---
 
-### Modifier les informations d'un client  
+## Modifier les informations d'un client  
 
 **1. Cliquez sur le bouton correspondant au client :**  
 ![customer edit btn](/images/screenshots/customer/edit_btn.png "customer edit btn")  
@@ -42,7 +42,7 @@ Vous accéderez aux détails du client, où vous trouverez l’historique comple
 
 ---
 
-### Supprimer un client  
+## Supprimer un client  
 
 **1. Cliquez sur le bouton correspondant au client :**  
 ![customer delete btn](/images/screenshots/customer/delete_btn.png "customer delete btn")  
@@ -54,7 +54,7 @@ Vous accéderez aux détails du client, où vous trouverez l’historique comple
 > **Note** : La suppression d’un client est irréversible et entraîne également la **suppression de toutes les prestations associées**. Les statistiques des tableaux de bord seront automatiquement mises à jour pour refléter ce changement.  
 
  ---
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Gestion des reçus_](product.md)   

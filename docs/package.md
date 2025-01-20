@@ -1,12 +1,12 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Gestion des forfaits
+# Gestion des forfaits
 
 La gestion des forfaits est un élément clé pour adapter les services de votre salle de sport aux besoins de vos clients. En tant que super-utilisateur, vous pouvez définir différents types de forfaits (concernant les abonnements comme les séances), en précisant les avantages et les conditions associés. Cette fonctionnalité vous permet d’offrir des options flexibles et personnalisées à votre clientèle, tout en maintenant un suivi clair des souscriptions et paiements.
 
 ---
 
-### **Ajouter un forfait**
+## **Ajouter un forfait**
 
 Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vos clients. Voici comment procéder :  
 1. Accédez à l'interface de gestion des forfaits :  
@@ -26,7 +26,7 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 
 ---
 
-### **Modifier un forfait**  
+## **Modifier un forfait**  
 1. Cliquez sur le bouton **MODIFIER** pour accéder au formulaire de modification de forfait :  
    ![update btn](/images/screenshots/package/update_btn.png "update btn")
 
@@ -37,7 +37,7 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 
 ---
 
-### **Supprimer un forfait**
+## **Supprimer un forfait**
 
 1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression de forfait.  
 2. Cliquez sur **SUPPRIMER FORFAIT** une fois le formulaire ouvert :  
@@ -47,7 +47,7 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 
 ---
 
-### **Lien de navigation**
+## **Lien de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précédente : Gestion des managers_](manager.md)  

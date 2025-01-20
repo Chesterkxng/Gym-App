@@ -1,6 +1,6 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Accéder à votre espace GymApp
+# Accéder à votre espace GymApp
 
 Après avoir enregistré votre salle de sport et créé un super-utilisateur, vous pouvez vous connecter à votre espace GymApp pour profiter pleinement des fonctionnalités de l'application.
 
@@ -8,7 +8,7 @@ Après avoir enregistré votre salle de sport et créé un super-utilisateur, vo
 
 ---
 
-### Se connecter
+## Se connecter
 **1. Accéder au formulaire de connexion**
 
 Pour commencer, cliquez sur l'un des boutons **SE CONNECTER** disponibles sur la page d'accueil (_voir exemple ci-dessous_).
@@ -24,7 +24,7 @@ Saisissez les informations suivantes :
 
 ---
 
-###  Réinitialiser le mot de passe
+##  Réinitialiser le mot de passe
 
 Si vous avez oublié votre mot de passe, suivez les étapes ci-dessous pour le réinitialiser.
 
@@ -52,7 +52,7 @@ Une fois le nouveau mot de passe enregistré, vous pourrez vous connecter via [l
 
 ---
 
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Enregistrement de la salle_](register.md)   

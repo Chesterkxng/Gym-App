@@ -1,12 +1,12 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Enregistrement de la salle
+# Enregistrement de la salle
 
 La première étape consiste à enregistrer les informations de votre salle de sport ainsi que celles du super-utilisateur qui administrera votre espace **GymApp**. Le super-utilisateur disposera de tous les droits nécessaires pour configurer, gérer et superviser les différentes fonctionnalités de votre espace.
 
 ---
 
-### **Enregistrer votre salle de sport**
+## **Enregistrer votre salle de sport**
 
 **1. Accéder au formulaire d'inscription**
 Pour accéder au formulaire d'inscription, cliquez sur l'un des boutons **COMMENCEZ** disponibles sur la page d'accueil (_cf. exemple ci-après_)
@@ -38,7 +38,7 @@ Une fois le formulaire complété **intégralement**, cliquez sur le bouton **en
 Sauf erreur, votre salle de sport et votre super-utilisateur seront enregistrés. Vous serez alors invité à choisir une formule adaptée à vos besoins.
 
 ---
-### Procéder au paiement 
+## Procéder au paiement 
 Sélectionnez une méthode de paiement adaptée et effectuez la transaction.  
 
 ![subscription plan](/images/screenshots/register/plan.png "Choix de la formule")
@@ -47,7 +47,7 @@ Sélectionnez une méthode de paiement adaptée et effectuez la transaction.
 > **Astuce** : Si vous choisissez de **passer** cette étape, vous pourrez toujours souscrire à une formule après vous être connecté.
 
 ---
-### **Lien de navigation**
+## **Lien de navigation**
 
 - [_Page précedente : Sommaire_](table.md)  
 - [_Page suivante : Accédez à votre espace GYMAPP_](login.md)

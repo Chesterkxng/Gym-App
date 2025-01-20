@@ -1,12 +1,12 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-## Gestion des séances
+# Gestion des séances
 
 La gestion des séances est une fonctionnalité centrale qui assure un suivi structuré et efficace des clients de votre salle de sport. Elle vous permet d’inscrire des clients, de gérer leurs séances et de suivre leurs paiements de manière claire et intuitive.
 
 ---
 
-### **Ajouter un séance**
+## **Ajouter un séance**
 
 Pour ajouter un séance, procédez comme suit :  
 1. Accédez au formulaire d'ajout de séances :  
@@ -33,7 +33,7 @@ Pour ajouter un séance, procédez comme suit :
 
 ---
 
-### **Modifier une séance**
+## **Modifier une séance**
 
 1. Accédez à la liste des séances via le menu déroulant :  
    ![navbar list session](/images/screenshots/session/nav_list.png "navbar list session")  
@@ -49,7 +49,7 @@ Pour ajouter un séance, procédez comme suit :
 
 ---
 
-### **Reconduire une séance**
+## **Reconduire une séance**
 
 1. Cliquez sur le bouton correspondant à la séance à reconduire :  
    ![reconduct subscription btn](/images/screenshots/session/reconduct_btn.png "reconduct subscription btn")  
@@ -66,7 +66,7 @@ Pour ajouter un séance, procédez comme suit :
 
 ---
 
-### **Supprimer une séance**
+## **Supprimer une séance**
 
 1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression :  
    ![delete session btn](/images/screenshots/session/delete_btn.png "delete session btn")  
@@ -78,7 +78,7 @@ Pour ajouter un séance, procédez comme suit :
 
 ---
 
-### **Liens de navigation**
+## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précédente : Gestion des abonnements_](subscription.md)  

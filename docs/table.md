@@ -40,7 +40,6 @@ Suivez ces étapes pour découvrir et maîtriser l'application étape par étape
 - [Gestion des ventes](sale.md)
     - [Ajouter une vente](sale.md#ajouter-une-vente)
     - [Supprimer une vente](sale.md#supprimer-une-vente)
-
 - [Gestion des reçus](invoice.md)
     - [Consulter un reçu](invoice.md#consulter-un-reçu)
     - [Traiter un reçu](invoice.md#traiter-un-reçu)
@@ -49,12 +48,13 @@ Suivez ces étapes pour découvrir et maîtriser l'application étape par étape
     - [Accédez aux détails d'un article](customer.md#accéder-aux-détails-dun-client)
     - [Modifier les informations d'un client](customer.md#modifier-les-informations-dun-client)
     - [Supprimer un client](customer.md#supprimer-un-client)
-
 - [Gestion des évènements](event.md)
     - [Ajouter un évènement](event.md#ajouter-un-événement)
     - [Modifier/supprimer un évènement](event.md#modifiersupprimer-un-événement)
-
 - [Réabonnement au service GYMAPP](payment.md)
+    - [Se réabonner au service GYMAPP](payment.md#se-réabonner-au-service-gymapp)
+    - [Consulter l'historique de transaction](payment.md#consulter-lhistorique-des-transactions)
+
 
 
 [Retour à la description du projet](/README.md).
