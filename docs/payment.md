@@ -32,10 +32,10 @@ En cas de questions ou d’assistance, notre support reste disponible pour vous 
 
 ## Consulter l'historique des transactions
 
-Accédez à l'historique des transactions depuis le menu déroulant :
+Accédez à l'historique des transactions depuis le menu déroulant :  
     ![payment historic](/images/screenshots/payment/nav_pay_historic.png "payment historic")  
 
-Vous accéderez à l'historique des transactions depuis la premier abonnement au service  :
+Vous accéderez à l'historique des transactions depuis la premier abonnement au service  :  
     ![payment historic](/images/screenshots/payment/historic.png "payment historic")  
 
 ---
