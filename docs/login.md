@@ -1,6 +1,6 @@
 ![GymApp Logo](/images/logo_md.png "GymApp Logo")
 
-# Accéder à votre espace GymApp
+# Accéder à votre espace GYMAPP
 
 Après avoir enregistré votre salle de sport et créé un super-utilisateur, vous pouvez vous connecter à votre espace GymApp pour profiter pleinement des fonctionnalités de l'application.
 

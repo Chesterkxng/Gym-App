@@ -1,3 +1,4 @@
+![GymApp Logo](/images/logo_md.png "GymApp Logo")  
 # Sommaire
 
 Suivez ces étapes pour découvrir et maîtriser l'application étape par étape :
@@ -51,6 +52,11 @@ Suivez ces étapes pour découvrir et maîtriser l'application étape par étape
 - [Gestion des évènements](event.md)
     - [Ajouter un évènement](event.md#ajouter-un-événement)
     - [Modifier/supprimer un évènement](event.md#modifiersupprimer-un-événement)
+- [Corbeille](trash.md)
+    - [Restaurer un évènement](trash.md#restaurer-un-évènement)
+     - [Restaurer un client](trash.md#restaurer-un-client)
+     -  [Restaurer un forfait](trash.md#restaurer-un-forfait)
+     - [Restaurer un article](trash.md#restaurer-un-article)
 - [Réabonnement au service GYMAPP](payment.md)
     - [Se réabonner au service GYMAPP](payment.md#se-réabonner-au-service-gymapp)
     - [Consulter l'historique de transaction](payment.md#consulter-lhistorique-des-transactions)

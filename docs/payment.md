@@ -18,10 +18,10 @@ Afin de garantir une transition fluide, vous pouvez renouveler votre abonnement 
 
 ---
 
-**1. Accédez à l'interface de réabonnement depuis le menu déroulant :**  
+1. Accédez à l'interface de réabonnement depuis le menu déroulant :
 ![navbar payment](/images/screenshots/payment/nav_payment.png "navbar payment")  
 
-**2. Sélectionnez la formule souhaitée et cliquez sur se réabonner :**  
+2. Sélectionnez la formule souhaitée et cliquez sur se réabonner :
 
 Un formulaire de paiement apparaîtra, où vous pourrez choisir la méthode de paiement qui vous convient.  
 ![pay btn](/images/screenshots/payment/pay.png "pay btn")  
@@ -44,4 +44,4 @@ Vous accéderez à l'historique des transactions depuis la premier abonnement au
 ## **Liens de navigation**
 
 - [_Retour au Sommaire_](table.md)  
-- [_Page précedente : Gestion de la clientèle_](product.md)
+- [_Page précedente : Corbeille_](trash.md)

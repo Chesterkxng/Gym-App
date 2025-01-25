@@ -9,7 +9,7 @@ La gestion des ventes est une fonctionnalité essentielle pour suivre et optimis
 
 Pour ajouter une vente, procédez comme suit :
 
-**1. Accédez à la liste de sélection des articles via le menu déroulant :**  
+1. Accédez à la liste de sélection des articles via le menu déroulant :
 ![navbar add session](/images/screenshots/sale/nav_add.png "navbar add session")  
 
 **2. Sélectionnez les articles souhaités :**  
@@ -31,16 +31,16 @@ Pour ajouter une vente, procédez comme suit :
 
 Pour supprimer une vente, procédez comme suit :  
 
-**1. Accédez à la liste des ventes via le menu déroulant :**  
+1. Accédez à la liste des ventes via le menu déroulant : 
 ![navbar list sale](/images/screenshots/sale/sale_list.png "navbar list sale")  
 
-**2. Cliquez sur le bouton de suppression correspondant à la vente :**  
+2. Cliquez sur le bouton de correspondant à la vente à supprimer :
 ![delete sale btn](/images/screenshots/sale/sale_delete_btn.png "delete sale btn")  
 
-**3. Confirmez la suppression dans la fenêtre de confirmation :**  
+**3. Confirmez la suppression depuis la fenêtre de confirmation :**  
 ![confirm delete sale btn](/images/screenshots/sale/delete_popup.png "confirm delete sale btn")  
 
-> **Note** : La **suppression** d’une vente est **irréversible** et met à jour automatiquement les statistiques dans les tableaux de bord.
+> **Note** : La suppression d’une vente est **irréversible** et met à jour automatiquement les statistiques dans les tableaux de bord.
 ---
 ## **Liens de navigation**
 

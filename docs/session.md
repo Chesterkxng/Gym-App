@@ -41,7 +41,7 @@ Pour ajouter un séance, procédez comme suit :
 2. Cliquez sur le bouton correspondant à la séance pour ouvrir le formulaire de modification.  
    ![edit session btn](/images/screenshots/session/edit_btn.png "edit session btn")  
 
-3. Modifiez les informations souhaitées et cliquez sur **MODIFIER SEANCE**.  
+3. Modifiez les informations souhaitées et sauvegardez les modifications  
    ![edit subscription form](/images/screenshots/session/edit_form.png "edit subscription form")  
 
    > **Note** : Les informations du client ne sont pas modifiables depuis cette interface.  
@@ -51,7 +51,7 @@ Pour ajouter un séance, procédez comme suit :
 
 ## **Reconduire une séance**
 
-1. Cliquez sur le bouton correspondant à la séance à reconduire :  
+1. Cliquez sur le bouton correspondant à la séance à reconduire pour accéder au formulaire de reconduction :  
    ![reconduct subscription btn](/images/screenshots/session/reconduct_btn.png "reconduct subscription btn")  
 
    > **Note**: 
@@ -59,7 +59,7 @@ Pour ajouter un séance, procédez comme suit :
     > - Les **puces jaunes** indiquent que le client a souscrit pour une séance ce jour.
     > - Les **puces vertes** indiquent que le client dispose d'un abonnement en cours.
 
-2. Confirmez la reconduction en cliquant sur **RECONDUIRE SEANCE**.  
+2. Confirmez la reconduction de la séance une fois le formulaire ouvert
    ![reconduct session form](/images/screenshots/session/reconduct_form.png "reconduct session form")  
 
    > **Note** : La date et l'heure sont celles du moment de l'enregistrement de la séance.
@@ -68,13 +68,13 @@ Pour ajouter un séance, procédez comme suit :
 
 ## **Supprimer une séance**
 
-1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression :  
+1. Cliquez sur le bouton correspondant à la séance à supprimer pour accéder au formulaire de suppression :  
    ![delete session btn](/images/screenshots/session/delete_btn.png "delete session btn")  
 
-2. Confirmez la suppression en cliquant sur **SUPPRIMER SEANCE**.  
+2. Confirmez la suppression une fois le formulaire ouvert :  
    ![delete session form](/images/screenshots/session/delete_form.png "delete session form")  
 
-   > **Note** : La suppression d’une séance est irréversible et met à jour automatiquement les statistiques dans les tableaux de bord.
+   > **Note** : La suppression d’une séance est **irréversible** et met à jour automatiquement les statistiques dans les tableaux de bord.
 
 ---
 
@@ -82,4 +82,4 @@ Pour ajouter un séance, procédez comme suit :
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précédente : Gestion des abonnements_](subscription.md)  
-- [_Page suivante : Gestion de stock_](stock.md)
+- [_Page suivante : Gestion de stock_](product.md)

@@ -38,4 +38,4 @@ Si vous disposez d'une imprimante, vous pouvez imprimer un reçu autant de fois 
 
 - [_Retour au Sommaire_](table.md)  
 - [_Page précedente : Gestion de stock_](product.md)   
-- [_Page suivante : Gestion des reçus_](invoice.md) 
+- [_Page suivante : Gestion de la clientèle_](customer.md) 

@@ -56,17 +56,17 @@ Pour ajouter un abonnement, procédez comme suit :
    > **Note 1** : Ce bouton devient disponible une fois l’abonnement arrivé à son terme.  
    > **Note 2** : Identifiez facilement les abonnements expirés grâce à la colonne **STATUT** (indiquée par des puces rouges).  
 
-2. Renseignez les informations du nouvel abonnement, puis cliquez sur **RECONDUIRE ABONNEMENT**.  
+2. Renseignez les informations du nouvel abonnement, puis confirmez la reconduction.  
    ![reconduct subscription form](/images/screenshots/subscription/reconduct_form.png "reconduct subscription form")  
 
 ---
 
 ## **Supprimer un abonnement**
 
-1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression :  
+1. Cliquez sur le bouton correspondant à l'abonnement pour accéder au formulaire de suppression :  
    ![delete subscription btn](/images/screenshots/subscription/delete_btn.png "delete subscription btn")  
 
-2. Confirmez la suppression en cliquant sur **SUPPRIMER ABONNEMENT**.  
+2. Confirmez la suppression de l'abonnement une fois le formulaire ouvert
    ![delete subscription form](/images/screenshots/subscription/delete_form.png "delete subscription form")  
 
    > **Note** : La suppression d’un abonnement est irréversible et met à jour automatiquement les statistiques dans les tableaux de bord.

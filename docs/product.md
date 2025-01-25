@@ -36,7 +36,7 @@ Pour ajouter un article, procédez comme suit :
 1. Accédez à la liste des articles via le menu déroulant :  
    ![Liste des articles](/images/screenshots/product/nav_list.png "navbar list product")  
 
-2. Cliquez sur le bouton **DETAILS** correspondant à l'article.  
+2. Cliquez sur le bouton correspondant à l'article :  
    ![Bouton détails article](/images/screenshots/product/info_btn.png "info product btn")  
 
    Une fenêtre contenant les informations relatives à l'article s'ouvrira :  
@@ -46,10 +46,10 @@ Pour ajouter un article, procédez comme suit :
 
 ## Modifier un article  
 
-1. Cliquez sur le bouton **MODIFIER** pour accéder au formulaire de modification :  
+1. Cliquez sur le bouton correspondant à l'article à modifier pour accéder au formulaire de modification :  
    ![Bouton modifier article](/images/screenshots/product/edit_btn.png "edit product btn")  
 
-2. Modifiez les informations souhaitées et cliquez sur **MODIFIER ARTICLE**.  
+2. Modifiez les informations souhaitées et sauvegardez :   
    ![Formulaire de modification](/images/screenshots/product/edit_form.png "edit product form")  
 
 ---  
@@ -59,7 +59,7 @@ Pour ajouter un article, procédez comme suit :
 Pour mettre à jour les quantités de plusieurs articles en même temps :  
 1. Sélectionnez les lignes des articles concernés à l’aide des cases à cocher.  
 2. Modifiez les valeurs dans les colonnes **Quantité** des articles sélectionnés.  
-3. Cliquez sur le bouton **SAUVEGARDER** pour appliquer les modifications.  
+3. Sauvegardez les modifications en cliquant sur  **SAUVEGARDER** :   
 
    ![Modification groupée](/images/screenshots/product/bulk_update.png "bulk edit")  
 
@@ -69,13 +69,13 @@ Pour mettre à jour les quantités de plusieurs articles en même temps :
 
 ## Supprimer un article  
 
-1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression :  
+1. Cliquez sur le bouton correspondant à l'article à supprimer pour accéder au formulaire de suppression :  
    ![Bouton supprimer article](/images/screenshots/product/delete_btn.png "delete product btn")  
 
-2. Confirmez la suppression en cliquant sur **SUPPRIMER PRODUIT**.  
+2. Confirmez la suppression de l'article une fois le formulaire ouvert:  
    ![Formulaire de suppression](/images/screenshots/product/delete_form.png "delete product form")  
 
-   > **Note** : La suppression d'un produit est **irréversible**.  
+   > **Note** : Lorsqu'un produit est supprimé, vous pouvez toujours le restaurer plus tard depuis la [corbeille](trash.md#restaurer-un-article).  
 
 ---
 
@@ -102,20 +102,20 @@ Pour ajouter une catégorie, procédez comme suit :
 
 ## Modifier une catégorie  
 
-1. Cliquez sur le bouton **MODIFIER** pour ouvrir le formulaire de modification :  
+1. Cliquez sur le bouton correspondant à la catégorie à modifier pour ouvrir le formulaire de modification :  
    ![Bouton modifier catégorie](/images/screenshots/product/edit_category_btn.png "edit product category btn")  
 
-2. Modifiez les informations nécessaires et cliquez sur **MODIFIER CATEGORIE** :  
+2. Modifiez les informations nécessaires et sauvegardez:  
    ![Formulaire de modification de catégorie](/images/screenshots/product/edit_category_form.png "edit category form")  
 
 ---
 
 ## Supprimer une catégorie  
 
-1. Cliquez sur le bouton **SUPPRIMER** pour ouvrir le formulaire de suppression :  
+1. Cliquez sur le bouton correspondant à la catégorie à supprimer pour ouvrir le formulaire de suppression :  
    ![Bouton supprimer catégorie](/images/screenshots/product/delete_category_btn.png "delete category btn")  
 
-2. Confirmez la suppression en cliquant sur **SUPPRIMER CATEGORIE** :  
+2. Confirmez la suppression une fois le formulaire ouvert :  
    ![Formulaire de suppression de catégorie](/images/screenshots/product/delete_category_form.png "delete category form")  
 
    > **Note** : La suppression d'une catégorie est **irréversible**.  

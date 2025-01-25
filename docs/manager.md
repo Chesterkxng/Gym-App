@@ -2,7 +2,7 @@
 
 # Gestion des managers
 
-La gestion des managers est une étape essentielle pour organiser et superviser les activités de votre salle de sport. En tant que super-utilisateur, vous avez la possibilité d'ajouter, de modifier ou de supprimer des comptes manager.
+La gestion des managers est une étape essentielle pour organiser et superviser les activités de votre salle de sport. En tant que super-utilisateur, vous avez la possibilité d'ajouter, de modifier ou de supprimer des comptes au profit de managers.
 
 Cette gestion, à la fois simplifiée et centralisée, vous permet d’attribuer des droits spécifiques à chaque manager en fonction de leurs responsabilités.
 
@@ -40,39 +40,38 @@ L'attribution de rôles et permissions permet de personnaliser l'accès aux donn
     ![navbar list manager](/images/screenshots/manager/nav_list_manager.png "navbar list manager")  
 
 
-2. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de définition des rôles et permissions. 
+2. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de définition des rôles et permissions :
     ![List manager](/images/screenshots/manager/list_manager.png "List manager")  
 
-3. Sur les modules inclus dans votre forfait, vous pouvez définir les permissions suivantes :  
+3. Choisissez les rôles et permissions requis pour le manager :
 
-   - **Lecture :** Le manager peut consulter les entrées.  
-   - **Ajout :** Le manager peut ajouter des entrées.  
-   - **Modification :** Le manager peut manipuler des entrées.  
-   - **Suppression :** Le manager peut supprimer des entrées.  
+ ![Permission](/images/screenshots/manager/permission.png "Permission")
 
-    ![Permission](/images/screenshots/manager/permission.png "Permission")
-
-Ces paramètres vous permettent de garder un contrôle total sur les actions que chaque manager peut effectuer au sein de votre salle.
+> Sur les modules inclus dans votre forfait, vous pouvez définir les permissions suivantes :  
+  > - **Lecture :** Le manager peut consulter les entrées.  
+  >- **Ajout :** Le manager peut ajouter des entrées.  
+  > - **Modification :** Le manager peut manipuler des entrées.  
+  > - **Suppression :** Le manager peut supprimer des entrées.  
 
 ---
 
 ## Modifier les informations d'un manager
-1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de modification. 
+1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de modification :
     ![update manager btn](/images/screenshots/manager/update_manager_btn.png "update manager btn")
 
-2. Modifier et sauvegardez les informations.
+2. Modifiez et sauvegardez les informations :
     ![update manager](/images/screenshots/manager/update_manager.png "update manager")
 
 ---
 
-## Désactiver/réactiver un compte manager 
-1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de désactivation/réactivation. 
+## Désactiver / réactiver un compte manager 
+1. Cliquez sur le bouton correspondant au manager pour accéder au formulaire de désactivation / réactivation :
     ![activate manager btn](/images/screenshots/manager/activate_manager_btn.png "activate manager btn")
 
     > **Note:** Vous pouvez consulter le status chaque manager depuis la colonne **STATUT**.
 
 
-2. Activez ou désactivez le manager.
+2. Confirmez la modification de status du compte: 
     ![update manager](/images/screenshots/manager/activate_manager.png "update manager")
 
     > **Note:**  Le nombre de managers actifs est limité par les conditions de votre forfait. Veuillez en tenir compte lors de l'activation d'un manager. 

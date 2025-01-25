@@ -22,7 +22,7 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 
    ![add form](/images/screenshots/package/add_form.png "add form")
 
-   > **Note:** Ce n'est qu'une fois que vous aurez configuré vos forfaits que vous serez en mesure d'ajouter des abonnements et/ou des séances.
+   > **Note:** Vous pourrez ajouter des abonnements et/ou des séances uniquement après avoir configuré vos forfaits.
 
 ---
 
@@ -39,11 +39,11 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 
 ## **Supprimer un forfait**
 
-1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression de forfait.  
-2. Cliquez sur **SUPPRIMER FORFAIT** une fois le formulaire ouvert :  
+1. Cliquez sur le bouton **SUPPRIMER** pour accéder au formulaire de suppression.  
+2. Confirmez la suppression du forfait une fois le formulaire ouvert :  
    ![delete form](/images/screenshots/package/delete_form.png "delete form")
 
-   > **Note:** La suppression d'un forfait entraîne **la suppression de toutes les entrées (Abonnements, Séances) liées**.
+   > **Note:** La suppression d'un forfait n'entraîne pas **la suppression de toutes les entrées (Abonnements, Séances) liées**. Vous pouvez restaurer le forfait plus tard depuis la [corbeille](trash.md#restaurer-un-forfait).
 
 ---
 
