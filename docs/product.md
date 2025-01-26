@@ -75,7 +75,9 @@ Pour mettre à jour les quantités de plusieurs articles en même temps :
 2. Confirmez la suppression de l'article une fois le formulaire ouvert:  
    ![Formulaire de suppression](/images/screenshots/product/delete_form.png "delete product form")  
 
-   > **Note** : Lorsqu'un produit est supprimé, vous pouvez toujours le restaurer plus tard depuis la [corbeille](trash.md#restaurer-un-article).  
+   > **Note** : 
+   > - Si l'article a déja été vendu, Il sera déplacé vers la corbeille pour des raisons de **tracabilité**. Vous pouvez toujours le [restaurer](trash.md#restaurer-un-article) plus tard (permission **suppression** requise).
+   > - Si l'article n'a pas encore été vendu, il sera supprimé **définitivement**.
 
 ---
 

@@ -43,7 +43,9 @@ Vous pouvez ajouter un ou plusieurs forfaits pour gérer les souscriptions de vo
 2. Confirmez la suppression du forfait une fois le formulaire ouvert :  
    ![delete form](/images/screenshots/package/delete_form.png "delete form")
 
-   > **Note:** La suppression d'un forfait n'entraîne pas **la suppression de toutes les entrées (Abonnements, Séances) liées**. Vous pouvez restaurer le forfait plus tard depuis la [corbeille](trash.md#restaurer-un-forfait).
+   > **Notes:**
+   > - La suppression d'un forfait n'entraîne pas **la suppression de toutes les entrées (Abonnements, Séances) liées**. Vous pouvez restaurer le forfait plus tard depuis la [corbeille](trash.md#restaurer-un-forfait) (permission **suppression** requise).
+   >- Si le forfait n'est lié à aucune entrée, il sera supprimé **définitevement**.
 
 ---
 

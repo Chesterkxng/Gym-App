@@ -36,7 +36,7 @@ Pour modifier ou supprimer un événement, localisez et sélectionnez-le sur le 
 
 ![edit form](/images/screenshots/calendar/edit_form.png "edit form")
 
-> **Note** : Une fois supprimé, Vous pouvez restaurer l'évènement depuis la [corbeille](trash.md#restaurer-un-évènement). 
+> **Note** : Une fois supprimé, Vous pouvez restaurer l'évènement depuis la [corbeille](trash.md#restaurer-un-évènement) (permission **suppression** requise). 
  
  ---
 ## **Liens de navigation**

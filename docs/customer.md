@@ -20,7 +20,10 @@ Les clients sont **ajoutés automatiquement** lorsqu'ils **souscrivent à un abo
 2. Cliquez sur le bouton correspondant au client : 
 ![customer view btn](/images/screenshots/customer/view_btn.png "customer view btn")  
 
-> **Note** : les clients disposant d'un abonnement actif sont ceux avec une **puce verte** dans la colonne **STATUT**. 
+> **Notes** : 
+> - les clients disposant d'un abonnement actif sont ceux avec une **puce verte** dans la colonne **statut**. 
+> - les clients disposant d'une séance active sont ceux avec une **puce jaune** dans la colonne **statut**. 
+> - les clients ne disposant d'aucune prestation active sont ceux avec une **puce grise** dans la colonne **statut**. 
 
 
 Vous accéderez aux détails du client, où vous trouverez l’historique complet de ses prestations et transactions. Vous y trouverez également des actions facilitant le **suivi, l’ajout, la modification et la suppression des prestations**.  
@@ -49,7 +52,7 @@ Vous accéderez aux détails du client, où vous trouverez l’historique comple
 
 ![delete form](/images/screenshots/customer/delete_form.png "delete form")  
 
-> **Note** : Lorsqu'un client est supprimé, ses prestations (Abonnements, séances et achats) ne sont pas supprimées automatiquement pour des raisons de **tracabilité**. Vous pouvez toujours restaurer plus tard depuis la [corbeille](trash.md#restaurer-un-client)
+> **Note** : Lorsqu'un client est supprimé, ses prestations (Abonnements, séances et achats) ne sont pas supprimées automatiquement pour des raisons de **tracabilité**. Vous pouvez toujours restaurer plus tard depuis la [corbeille](trash.md#restaurer-un-client) (permission **suppression** requise).
 
  ---
 ## **Liens de navigation**
