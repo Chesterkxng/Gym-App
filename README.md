@@ -40,7 +40,8 @@ Accédez rapidement aux sections détaillées de notre documentation pour une co
 
 ## Contributeurs
 
-- [Keglo Stephane](https://www.github.com/keglostephane), *Développeur*
-- [Zoum Lewis](https://www.facebook.com/ouattara.zoumanalewiis), *Infographiste*
+- [Keglo Stephane](https://www.github.com/keglostephane), *Développeur*,
+- [Ibrahima G. Coulibaly](https://www.github.com/iib0011), *Dev Ops*,
+- [Zoum Lewis](https://www.facebook.com/ouattara.zoumanalewiis), *Infographiste*,
 
 
